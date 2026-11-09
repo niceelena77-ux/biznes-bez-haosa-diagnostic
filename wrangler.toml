@@ -1,0 +1,12 @@
+name = "biznes-bez-haosa-diagnostic"
+main = "src/index.js"
+compatibility_date = "2026-11-01"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bbh-diagnostics"
+database_id = "ea80b323-a21c-43a3-a19d-4819f40c984a"
